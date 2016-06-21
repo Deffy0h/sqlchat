@@ -63,7 +63,7 @@ print "you: perfect ;) \n";
 sleep(2);
 print "hi: ' ORDER BY 1\n";
 sleep(2);
-print "hi: ' ONIUN SELECT * FROM admin\n";
+print "hi: ' UNION SELECT * FROM admin\n";
 sleep(2);
 print "server: login: admin, password:hello123\n";
 sleep(2);
